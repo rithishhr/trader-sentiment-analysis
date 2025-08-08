@@ -40,6 +40,18 @@ To uncover hidden behavioral patterns and performance trends in different market
 
 ---
 
+## 📊 Key Insights & Strategy Suggestions
+
+- **Traders perform better during Greed sentiment**, with higher average PnL and win rate.
+- **Fear periods are more volatile**, with lower win rate and higher average fees.
+- **Strategy Recommendations:**
+  - Reduce position size and risk during Fear.
+  - Trade more confidently in Greed periods.
+  - Avoid overtrading in Neutral phases to minimize fees.
+  - Be cautious with trades where sentiment data is missing or unknown.
+
+---
+
 ## 🧪 How to Run
 
 1. Open the [notebook file](./sentiment_analysis.ipynb)
