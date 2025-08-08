@@ -51,5 +51,4 @@ To uncover hidden behavioral patterns and performance trends in different market
 ## 👤 Author
 
 - **Rithish H R**
-- GitHub: [Your GitHub profile link]
-
+- GitHub: https://github.com/rithishhr
